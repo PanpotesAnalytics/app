@@ -1,0 +1,1 @@
+mk dirs prior to running. output_segments, polys, rgb_output, segment
